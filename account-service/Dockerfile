@@ -21,3 +21,5 @@ EXPOSE 5003
 
 # Run the application
 CMD ["python", "app/app.py"]
+
+# 
